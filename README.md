@@ -1,1 +1,1 @@
-# Euclids-Algorithm
+# Euclid's Algorithm
